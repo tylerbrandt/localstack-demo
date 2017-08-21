@@ -1,6 +1,6 @@
 # localstack-demo
 
-Demonstrate an error response with localstack lamba invoke, where it apparently cannot invoke nodejs functions (at least those created via zip).
+Demonstrate an error response with [localstack](https://github.com/localstack/localstack) lamba invoke, where it apparently cannot invoke nodejs functions (at least those created via zip).
 
 ## Install
 ```
