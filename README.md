@@ -10,7 +10,23 @@ $ ./install.sh
 ```
 
 ## Run
+
+Start with docker-compose or directly:
+
+### With docker-compose (doesn't work)
 ```
+$ docker-compose up -d
+```
+
+### Direct (works)
+```
+$ . .venv/bin/activate
+$ TMPDIR=/private$TMPDIR LAMBDA_EXECUTOR=docker localstack start --docker
+```
+
+### Test
+```
+$ . .venv/bin/activate
 $ ./test.sh
 ```
 
