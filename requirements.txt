@@ -32,7 +32,7 @@ futures==3.1.1
 idna==2.6
 ipaddress==1.0.18
 itsdangerous==0.24
-Jinja2==2.9.6
+Jinja2==2.11.3
 jmespath==0.9.3
 jsonpath-rw==1.4.0
 localstack==0.7.4.3
