@@ -67,7 +67,7 @@ six==1.10.0
 srp-ext==1.0.7.1
 subprocess32-ext==3.2.8.2
 terminaltables==3.1.0
-urllib3==1.22
+urllib3==1.26.5
 warrant-ext==0.2.0.3
 Werkzeug==0.12.2
 xmltodict==0.10.2
