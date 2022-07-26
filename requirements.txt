@@ -35,7 +35,7 @@ itsdangerous==0.24
 Jinja2==2.9.6
 jmespath==0.9.3
 jsonpath-rw==1.4.0
-localstack==0.7.4.3
+localstack==0.12.11
 localstack-client==0.3
 localstack-ext==0.7.0.7
 MarkupSafe==1.0
